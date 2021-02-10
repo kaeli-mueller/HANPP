@@ -1,0 +1,16 @@
+*.jpg
+*.docx
+*.pptx
+*.jpg
+figures/
+*Rhistory
+/.Rproj.user/
+*.png
+*.tmp
+*.html
+*.mpk
+*.tif
+*.tif.ovr
+*.tif.vat.cpg
+*.tif.vat.dbf
+*.pdf
